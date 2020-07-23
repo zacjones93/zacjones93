@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning and collaborating on: 
+🌱 I’m currently learning and collaborating with: 
 <p align="center"><img src="https://github.com/zacjones93/zacjones93/blob/master/Untitled_Artwork.png?raw=true" width="500"/></p>
 <!--
 **zacjones93/zacjones93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
