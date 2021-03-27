@@ -1,9 +1,12 @@
-### Hi there 👋
+[![](https://github.com/zacjones93/zacjones93/blob/master/Social-banner-for-zac.svg?raw=true)](zacjones.dev)
 
-🌱 I’m currently learning and collaborating with: 
+# Hi there 👋
+
+I work at egghead.io helping instructors design educational content that is effective and respects your time.
+
+I'm interested in 🌱 digital gardens, 🕸️ knowledge graphs, 🎨 design, and 🏋️ training for health and wellness.
 
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/zacjones93/zacjones93/blob/master/Untitled_Artwork.png?raw=true" />
 <!--
 **zacjones93/zacjones93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
