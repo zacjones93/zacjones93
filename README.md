@@ -4,7 +4,12 @@
 
 I work at egghead.io helping instructors design educational content that is effective and respects your time.
 
-I'm interested in 🌱 digital gardens, 🕸️ knowledge graphs, 🎨 design, and 🏋️ training for health and wellness.
+I'm interested in:
+
+- 🌱  digital gardens
+- 🕸️ knowledge graphs
+- 🎨 design,
+- 🏋️ training for health and wellness
 
 
 <!--
