@@ -8,7 +8,7 @@ I'm interested in:
 
 - 🌱  digital gardens
 - 🕸️ knowledge graphs
-- 🎨 design,
+- 💡 design
 - 🏋️ training for health and wellness
 
 
