@@ -2,7 +2,11 @@
 
 # Hi there 👋
 
-I work at egghead.io helping instructors design educational content that is effective and respects your time.
+I work at egghead.io helping instructors design educational content that is effective and respects your time. 
+
+If you want to check out some of my work you can look at [egghead-next](https://github.com/eggheadio/egghead-next/pulls?q=is%3Apr+is%3Aclosed+author%3Azacjones93) which is the front end of egghead. 
+
+We are currently using Next.js + TailwindCSS + Sanity.io along with a rails API to power the frontend. The combo has been super awesome to work with. We are able to build stories and curate pages with little friction. This [PR showcases](https://github.com/eggheadio/egghead-next/pull/602) the flexibity and speed that this stack of technology allows.
 
 I'm interested in:
 
