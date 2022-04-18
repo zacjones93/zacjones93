@@ -1,4 +1,4 @@
-[![Zacs github profile banner](https://raw.githubusercontent.com/zacjones93/zacjones93/9cb7d442534a0756bda645ada877ec64e80051e1/gh-profile-banner-v1.png)](https://zacjones.dev)
+[![Zacs github profile banner](https://github.com/zacjones93/zacjones93/blob/master/gh-profile-banner-v2.png?raw=true)](https://zacjones.dev)
 
 # Hi there 👋
 
