@@ -4,8 +4,9 @@
 
 I work at Corpaxe as a tech lead pushing the boundaries of how we work with AI.
 
-Apart from the main gig, my brother (@theianjones_) and i started WODsmith to build industry leading, functional fitness competition software. We've been in the CrossFit space for 13+ years as an athletes, coaching, and competing and are building the best software in the space.
-I'm interested in:
+Apart from the main gig, my brother (@theianjones_) and I started WODsmith to build functional fitness competition software. We've been in the CrossFit space for 13+ years as affiliate members as well as coaching, and competing and are building the best software in the space.
+
+I'm also interested in:
 
 - 🌱  digital gardens
 - 🕸️ knowledge graphs
