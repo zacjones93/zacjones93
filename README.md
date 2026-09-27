@@ -2,17 +2,14 @@
 
 # Hi there 👋
 
-I work at egghead.io helping instructors design educational content that is effective and respects your time. 
+I work at Corpaxe as a tech lead pushing the boundaries of how we work with AI.
 
-If you want to check out some of my work you can look at [egghead-next](https://github.com/eggheadio/egghead-next/pulls?q=is%3Apr+is%3Aclosed+author%3Azacjones93) which is the front end of egghead. 
-
-We are currently using Next.js + TailwindCSS + Sanity.io along with a rails API to power the frontend. The combo has been super awesome to work with. We are able to build stories and curate pages with little friction. This [PR showcases](https://github.com/eggheadio/egghead-next/pull/602) the flexibity and speed that this stack of technology allows.
-
+Apart from the main gig, my brother (@theianjones_) and i started WODsmith to build industry leading, functional fitness competition software. We've been in the CrossFit space for 13+ years as an athletes, coaching, and competing and are building the best software in the space.
 I'm interested in:
 
 - 🌱  digital gardens
 - 🕸️ knowledge graphs
-- 💡 design
+- 💡 building simplicity into systems
 - 🏋️ training for health and wellness
 
 
